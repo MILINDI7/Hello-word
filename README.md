@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Description the project.
+> Description of the project.
 added a hello microverse header
 the heading color is aqua
 
