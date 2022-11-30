@@ -1,7 +1,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello word <a name="about-project"></a>
 
 > Hello word
 
