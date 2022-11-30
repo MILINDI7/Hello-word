@@ -1,56 +1,159 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+<!-- PROJECT DESCRIPTION -->
 
-> Description of the project.
-added a hello microverse header
-the heading color is aqua
+# 📖 [your_project_name] <a name="about-project"></a>
+
+> Hello word
+
+**In this project I built a simple hello word with a header and gave it a style color.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>HTML</summary>
+</details>
+
+<details>
+  <summary>CSS</summary>
+</details>
+
+<details>
+  <summary>Github</summary>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **Github workflow**
+- **HTML best semantics**
+- **CSS and linters**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Project ain't yet deployed.
 
 
 
-## Built With
+<!-- GETTING STARTED -->
 
-- Major languages
-- html & css
-- vs code
+## 💻 Getting Started <a name="getting-started"></a>
 
-##Getting started 
-prerequisites
--setup
--install
--usage
--deployament
+> Describe how a new developer could make use of your project.
 
-##To run
-- to run this web you should have a webbrowser like chrome, safari, firefox...
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this (https://github.com/MILINDI7/Hello-word.git) repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
+Install this project with:
 
 
+  cd my-project
+  gem install
 
-## Authors
+
+### Usage
+
+To run the project, execute the following command:
+
+Open git bash and run the followind commands:
+
+> git init
+> cd my-project
+> code .
+
+### Run tests
+
+To run tests, run the following command:
+
+
+  bin/rails test test/models/article_test.rb
+
+
+### Deployment
+
+Project not yet to be deployed
+
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> MILINDI SHEMA David
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/MILINDI7))
-- Twitter: [@twitterhandle](https://twitter.com/DavidShema14))
-- LinkedIn: [LinkedIn](https://linkedin.com/in/david-milindi-shema-803954231)
+- GitHub: [@githubhandle](https://github.com/MILINDI7)
+- Twitter: [@twitterhandle](https://twitter.com/DavidShema14)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-milindi-shema-803954231/)
 
 
-## 🤝 Contributing
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Not yet expecting any future feature
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/MILINDI7/Hello-word/issues).
 
-## Show your support
+<!-- SUPPORT -->
 
-Give a ⭐️ if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
-## Acknowledgments
+> Write a message to encourage readers to support your project
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+If you like this project...
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](./MIT.md) licensed.
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank Microverse team and their dedicated reviewrs
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
